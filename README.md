@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cloud transformation...
+- ⛅ I’m currently working on cloud transformation...
+- 🚀 DevOps
+- 💪 IaC Templates
+
 <!--
 **MrJGrav/MrJGrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+⛅ Azure
+🚗 Automation
+🐚 PowerShell
+💪 ARM Templates
+⚡ Azure Functions
+🚀 DevOps
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
