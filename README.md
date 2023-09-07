@@ -3,7 +3,7 @@
 - ⛅ I’m currently working on cloud transformation...
 - 🚀 DevOps
 - 💪 IaC automation
-- ☕ Drink lot's of coffee
+- ☕ Drink 'too much' coffee
 
 
 <!--
